@@ -20,7 +20,7 @@ Fill in any fields applicable to the test. These items deal with who is testing,
 - **Test Date(s):** 10/12/2022
 - **Tester Name:** Erissa Duvall
 - **Tester's Company:** GoodMaps
-- ***Tester Email:** PretendEmail@Corgidev.com
+- **Tester Email:** PretendEmail@Corgidev.com
 - **Access Information (if applicable)**
   - **Credentials:** N/A
   - **Additional Access Information:**
